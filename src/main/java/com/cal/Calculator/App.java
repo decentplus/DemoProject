@@ -64,7 +64,7 @@ public class App
 				 break;
 			}
 	    }
-		// loop works till the number 5 not selected.
+		// loop works till the number 5 not selected.x
 	  while(choice!=5);
 	}
 	
